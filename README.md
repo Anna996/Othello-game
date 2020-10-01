@@ -9,4 +9,6 @@ The player can choose:
 
 - to play against the computer or against a friend.
 
+![](gif.gif)
+
 <b> The project was written by Adi Amana and Anna Aba </b>
