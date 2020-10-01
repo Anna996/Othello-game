@@ -1,4 +1,4 @@
-# Othelo-game
+# Othello-game
 A strategy board game - app for windows
 
 The project was written in C# with Visual Studio .NET framework.
